@@ -1,0 +1,41 @@
+[
+	{
+		"1": {
+			"id": 1,
+			"title": "Java EE",
+			"content": "Java is the best for backend",
+			"author": "JavaFan",
+			"dateCreated": "2018-12-03T11:29:36",
+			"tags": [
+				"Java",
+				"Backend",
+				"Server"
+			],
+			"likes": 0,
+			"comments": []
+		}
+	},
+	{
+		"1": {
+			"id": 1,
+			"title": "Java EE",
+			"content": "Java is the best for backend",
+			"author": "JavaFan",
+			"dateCreated": "2018-12-03T11:29:36",
+			"tags": [
+				"Java",
+				"Backend",
+				"Server"
+			],
+			"likes": 1,
+			"comments": [
+				{
+					"user": "Stranger",
+					"message": "Awesome!",
+					"dateCreated": "2018-12-03T11:29:36",
+					"likes": 0
+				}
+			]
+		}
+	}
+]
